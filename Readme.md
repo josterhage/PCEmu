@@ -1,5 +1,5 @@
-# PC Emulator++
-An emulator of the original IBM PC. This project is a C++ re-write of an earlier project written in C#. Features &c are planned unless marked ***Complete***.
+# PC Emulator
+An emulator of the original IBM PC. This project is a C re-write of an earlier project written in C#. Features &c are planned unless marked ***Complete***.
 
 ## Features
 * Cycle-precise emulation of the i8088 processor
